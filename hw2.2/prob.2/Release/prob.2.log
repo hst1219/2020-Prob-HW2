@@ -1,0 +1,7 @@
+﻿  prob.2.cpp
+C:\Users\User\source\repos\prob.2\prob.2\prob.2.cpp(86,38): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+  All 30 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  prob.2.vcxproj -> C:\Users\User\source\repos\prob.2\Release\prob.2.exe
